@@ -1,0 +1,24 @@
+{
+  "click-words-to-popout": {
+    "status": "true",
+    "activities": [
+      "21a",
+      "27a",
+      "37a",
+      "68a",
+      "78a",
+      "86a",
+      "90a",
+      "94b",
+      "95c",
+      "101b",
+      "111b",
+      "113b",
+      "124a"
+    ]
+  },
+  "drag-drop-on-images": {
+    "status": "true",
+    "activities": ["141a"]
+  }
+}
